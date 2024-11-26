@@ -11,3 +11,11 @@
     margin: 0% auto;
     align-items: center;
 }
+.riquadro {
+    background-color: #4EA0FF;
+    color: white;
+    margin: 2px;
+    width: 60px;
+    height: auto;
+    
+}
