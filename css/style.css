@@ -1,13 +1,21 @@
-#logo,
-.text-vertical-align {
-        vertical-align: middle;
-        border-left: 10px;
+html{   
+    font-family: sans-serif;
 }
-.text-vertical-align {
-    font-size: 40px;
+
+body{
+    background-color: #F7F8F9;
 }
-.conteiner {
-    width: 80%;
-    margin: 0% auto;
-    align-items: center;
+
+header{
+    background-color: #F7F8F9;
+    padding: 20px;
+}
+
+h1{
+    display: inline-block;
+}
+
+header img,
+header h1{
+    vertical-align: middle;
 }
