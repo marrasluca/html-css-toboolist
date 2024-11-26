@@ -6,3 +6,8 @@
 .text-vertical-align {
     font-size: 40px;
 }
+.conteiner {
+    width: 80%;
+    margin: 0% auto;
+    align-items: center;
+}
