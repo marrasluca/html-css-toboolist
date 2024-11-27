@@ -19,3 +19,11 @@ header img,
 header h1{
     vertical-align: middle;
 }
+.riquadro {
+    background-color: #4EA0FF;
+    color: white;
+    margin: 2px;
+    width: 60px;
+    height: auto;
+    
+}
