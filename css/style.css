@@ -55,3 +55,36 @@ main #todolist{
     padding: 5px;
     border-radius: 5px;
 }
+
+#todolist-bottom ul{
+    list-style-type: none;
+}
+
+#todolist-bottom ul li div{
+    border: 1px solid black;
+    height: 20px;
+    aspect-ratio: 1;
+    border-radius: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+#todolist-bottom ul li .icon-check{
+    color: green;
+    border: 1px solid green;
+
+ }
+
+
+
+#todolist-bottom ul li .etichetta{
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#todolist-bottom ul li .et-editorial{
+    color: white;
+    background-color: #47ACF2;
+    border: 1px solid #47ACF2;
+}
