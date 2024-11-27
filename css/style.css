@@ -8,7 +8,8 @@ body{
 
 header{
     background-color: #F7F8F9;
-    padding: 20px;
+    padding-left: 30px;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -19,11 +20,38 @@ header img,
 header h1{
     vertical-align: middle;
 }
-.riquadro {
-    background-color: #4EA0FF;
-    color: white;
-    margin: 2px;
-    width: 60px;
-    height: auto;
-    
+ 
+main #todolist{
+    margin: 0 auto;
+    width: 80%;
+}
+
+#todolist-top{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+
+#todolist-bottom{
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#todolist-top,
+#todolist-bottom {
+    background-color: #ffff;
+}
+
+#todolist-top .btn-blue{
+    color: #ffff;
+    background-color: #47ACF2;
+}
+
+#todolist-top button{
+    border: 1px solid lightgrey;
+    background-color: #ffff;
+    color: lightgrey;
+    padding: 5px;
+    border-radius: 5px;
 }
