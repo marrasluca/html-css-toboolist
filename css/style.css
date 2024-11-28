@@ -93,3 +93,33 @@ main #todolist{
     background-color: #47ACF2;
     border: 1px solid #47ACF2;
 }
+
+#todolist-bottom ul li .q1-goals{
+     color: white;
+     background-color: purple;
+     border: 1px solid purple;
+}
+
+#todolist-bottom ul li .recruiting{
+    color: #F7F8F9;
+    background-color: green;
+    border: 1px solid green;
+}
+
+#todolist-bottom ul li .mobile{
+    color: #F7F8F9;
+    background-color: orange;
+    border: 1px solid orange;
+}
+
+#todolist-bottom ul li .website{
+    color: #F7F8F9;
+    background-color: rgb(91, 10, 10);
+    border: 1px solid rgb(91, 10, 10);
+}
+
+#todolist-bottom ul li .sales{
+    color: #F7F8F9;
+    background-color: orange;
+    border: 1px solid orange;
+}
