@@ -75,6 +75,11 @@ main #todolist{
 
  }
 
+ #todolist-bottom ul li .icon-cross{
+    color: red;
+    border: 1px solid red;
+ }
+
 
 
 #todolist-bottom ul li .etichetta{
